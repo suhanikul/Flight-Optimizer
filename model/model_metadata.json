@@ -1,0 +1,37 @@
+{
+  "feature_order": [
+    "airline",
+    "from",
+    "to",
+    "class",
+    "stops",
+    "dep_block",
+    "arr_block",
+    "duration",
+    "day_of_week",
+    "is_weekend",
+    "route_te",
+    "route_count",
+    "route_median_price"
+  ],
+  "categorical_cols": [
+    "airline",
+    "from",
+    "to",
+    "class",
+    "stops",
+    "dep_block",
+    "arr_block"
+  ],
+  "numeric_cols": [
+    "duration",
+    "day_of_week",
+    "is_weekend"
+  ],
+  "target": "log1p(price)",
+  "cv_mean_mae": 3634.323189899943,
+  "cv_std_mae": 185.0846052967632,
+  "mae_test": 2991.4588169178905,
+  "n_rows": 300126,
+  "random_seed": 42
+}

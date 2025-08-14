@@ -1,0 +1,182 @@
+{
+  "delhi->mumbai": {
+    "median": 7335.0,
+    "p10": 2501.0,
+    "p90": 53961.0,
+    "samples": 15291
+  },
+  "delhi->bangalore": {
+    "median": 6708.5,
+    "p10": 3646.0,
+    "p90": 55599.0,
+    "samples": 14012
+  },
+  "delhi->kolkata": {
+    "median": 7155.0,
+    "p10": 4039.0,
+    "p90": 66512.0,
+    "samples": 11917
+  },
+  "delhi->hyderabad": {
+    "median": 6170.0,
+    "p10": 2541.0,
+    "p90": 52472.0,
+    "samples": 9326
+  },
+  "delhi->chennai": {
+    "median": 7499.0,
+    "p10": 3004.0,
+    "p90": 58862.0,
+    "samples": 10772
+  },
+  "mumbai->delhi": {
+    "median": 6363.0,
+    "p10": 2362.0,
+    "p90": 52143.0,
+    "samples": 14808
+  },
+  "mumbai->bangalore": {
+    "median": 7264.0,
+    "p10": 2145.0,
+    "p90": 67932.0,
+    "samples": 12867
+  },
+  "mumbai->kolkata": {
+    "median": 7593.0,
+    "p10": 4564.0,
+    "p90": 62976.0,
+    "samples": 12600
+  },
+  "mumbai->hyderabad": {
+    "median": 7660.0,
+    "p10": 3367.0,
+    "p90": 58997.0,
+    "samples": 10476
+  },
+  "mumbai->chennai": {
+    "median": 8229.0,
+    "p10": 3030.0,
+    "p90": 62862.0,
+    "samples": 10124
+  },
+  "bangalore->delhi": {
+    "median": 7236.0,
+    "p10": 3502.0,
+    "p90": 55664.0,
+    "samples": 13755
+  },
+  "bangalore->mumbai": {
+    "median": 7184.0,
+    "p10": 3042.0,
+    "p90": 68009.0,
+    "samples": 12935
+  },
+  "bangalore->kolkata": {
+    "median": 8193.0,
+    "p10": 3427.0,
+    "p90": 61416.0,
+    "samples": 10026
+  },
+  "bangalore->hyderabad": {
+    "median": 7891.0,
+    "p10": 2366.0,
+    "p90": 57437.0,
+    "samples": 8970
+  },
+  "bangalore->chennai": {
+    "median": 9333.0,
+    "p10": 3534.0,
+    "p90": 61302.0,
+    "samples": 6410
+  },
+  "kolkata->delhi": {
+    "median": 6790.0,
+    "p10": 4039.0,
+    "p90": 62507.0,
+    "samples": 10487
+  },
+  "kolkata->mumbai": {
+    "median": 8038.0,
+    "p10": 4560.0,
+    "p90": 63530.0,
+    "samples": 11458
+  },
+  "kolkata->bangalore": {
+    "median": 8192.0,
+    "p10": 3901.0,
+    "p90": 61893.0,
+    "samples": 9818
+  },
+  "kolkata->hyderabad": {
+    "median": 8552.0,
+    "p10": 4635.0,
+    "p90": 52958.0,
+    "samples": 7890
+  },
+  "kolkata->chennai": {
+    "median": 8675.0,
+    "p10": 4340.0,
+    "p90": 56823.0,
+    "samples": 6653
+  },
+  "hyderabad->delhi": {
+    "median": 6199.0,
+    "p10": 2721.0,
+    "p90": 52653.0,
+    "samples": 8506
+  },
+  "hyderabad->mumbai": {
+    "median": 6699.0,
+    "p10": 3593.0,
+    "p90": 59190.0,
+    "samples": 10071
+  },
+  "hyderabad->bangalore": {
+    "median": 6924.0,
+    "p10": 2136.0,
+    "p90": 57553.0,
+    "samples": 7898
+  },
+  "hyderabad->kolkata": {
+    "median": 7845.0,
+    "p10": 4412.0,
+    "p90": 52596.0,
+    "samples": 7987
+  },
+  "hyderabad->chennai": {
+    "median": 7779.0,
+    "p10": 1806.0,
+    "p90": 52483.0,
+    "samples": 6395
+  },
+  "chennai->delhi": {
+    "median": 7426.0,
+    "p10": 3036.0,
+    "p90": 58789.0,
+    "samples": 9782
+  },
+  "chennai->mumbai": {
+    "median": 8315.0,
+    "p10": 3030.0,
+    "p90": 62801.0,
+    "samples": 9320
+  },
+  "chennai->bangalore": {
+    "median": 10574.0,
+    "p10": 4246.0,
+    "p90": 61164.0,
+    "samples": 6490
+  },
+  "chennai->kolkata": {
+    "median": 8478.0,
+    "p10": 4120.0,
+    "p90": 56208.0,
+    "samples": 6979
+  },
+  "chennai->hyderabad": {
+    "median": 7447.0,
+    "p10": 1818.0,
+    "p90": 52229.0,
+    "samples": 6103
+  }
+}
