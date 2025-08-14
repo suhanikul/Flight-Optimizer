@@ -1,1 +1,29 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
 venv/
+.venv/
+
+# Data files
+*.csv
+*.tsv
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment files
+.env
